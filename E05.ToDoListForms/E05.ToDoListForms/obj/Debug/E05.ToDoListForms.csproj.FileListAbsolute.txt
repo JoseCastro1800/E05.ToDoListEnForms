@@ -1,0 +1,10 @@
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\bin\Debug\E05.ToDoListForms.exe.config
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\bin\Debug\E05.ToDoListForms.exe
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\bin\Debug\E05.ToDoListForms.pdb
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.frmE05.resources
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.Properties.Resources.resources
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.csproj.GenerateResource.cache
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.exe
+C:\Users\karla\OneDrive\Desktop\E05.ToDoListForms\E05.ToDoListForms\obj\Debug\E05.ToDoListForms.pdb
